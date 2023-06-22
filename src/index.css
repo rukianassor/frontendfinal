@@ -1,0 +1,22 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 0;
+  }
+.txt{
+  font: 14px;
+  text-align: center;
+  margin-left: 30%;
+  margin-bottom: 5%;
+}
+.lg{
+  text-align: center;
+  margin-left: 42%;
+  /* margin-top: 25%; */
+}
+.login {
+  /* display: flex;
+  justify-content: center; */
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
